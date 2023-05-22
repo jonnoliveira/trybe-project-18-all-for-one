@@ -78,7 +78,7 @@ Nesse projeto trabalhei com a aplicação dos conceitos de SQL onde pude exibir 
 
 ## 100% :heavy_check_mark:
 
-![Project-all-for-one]()
+![Project-all-for-one](https://github.com/jonnoliveira/trybe-project-18-all-for-one/blob/main/images/all-for-one-grade.png)
 
 </details> 
  
